@@ -1,0 +1,9 @@
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/DemoApplication.java
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/controllers/AutorController.java
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/controllers/LivroController.java
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/entities/Autor.java
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/entities/Livro.java
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/repository/AutorRepository.java
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/repository/LivroRepository.java
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/services/AutorService.java
+/home/runner/Relacionamento/src/main/java/com/aula/relacionamento/services/LivroService.java
